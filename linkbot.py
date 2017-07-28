@@ -7,8 +7,8 @@ import time, random, sys
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-email = 'osteth@gmail.com'
-password = '1Pterodactyl!'
+email = 'your linkedin email address'
+password = 'your linkedin password'
 
 print("OPENING CHROME")
 print("\n")
