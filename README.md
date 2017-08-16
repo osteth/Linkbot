@@ -15,6 +15,7 @@ Next, Chromedriver and Geckkodriver exe files from this repo need to be places i
 supply credentials
 ```
 you exit the script to add in your credentials at the top. once this is done you can run the bot. 
+in your terminal type in:
 
 ```
 python linkbot.py
