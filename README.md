@@ -1,13 +1,21 @@
 # Linkbot
 
-Automatically sends connectino requests to everyone on your linkedin my network page. 
+Automatically sends connection requests to everyone on your linkedin my network page. 
 
 ## Getting Started 
-This bot requires python3+ and selenium to work 
+This bot requires python3+ and selenium to work. easiest way to get these is to install anaconda
+https://www.continuum.io/downloads
+and then open a terminal and type in:
 ```
 pip install selenium
 ```
 Next, Chromedriver and Geckkodriver exe files from this repo need to be places in C:\windows\ for windows users please see http://www.seleniumhq.org/ for install instructions for other OS's
+
+```
+supply credentials
+```
+you exit the script to add in your credentials at the top. once this is done you can run the bot. 
+
 ```
 python linkbot.py
 ```
