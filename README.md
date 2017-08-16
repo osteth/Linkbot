@@ -11,9 +11,9 @@ pip install selenium
 ```
 Next, Chromedriver and Geckkodriver exe files from this repo need to be places in C:\windows\ for windows users please see http://www.seleniumhq.org/ for install instructions for other OS's
 
-```
-supply credentials
-```
+
+### supply credentials
+
 you exit the script to add in your credentials at the top. once this is done you can run the bot. 
 in your terminal type in:
 
